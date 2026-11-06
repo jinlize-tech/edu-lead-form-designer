@@ -1,0 +1,24 @@
+{
+  "number": 11,
+  "product_id": "JLZ-EDU-SK-011",
+  "chinese_name": "招生线索表单设计",
+  "english_name": "Lead Form Designer",
+  "repository_name": "edu-lead-form-designer",
+  "product_type": "Skill",
+  "category": "01 招生营销中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-lead-form-designer-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "招生目标、线索字段、隐私要求、渠道来源、分派规则和表单工具限制",
+  "main_output": "表单字段表、必填规则、选项枚举、同意说明、分派标签和测试清单",
+  "package_entries": [
+    "edu-lead-form-designer/SKILL.md",
+    "edu-lead-form-designer/references/DOMAIN_GUIDE.md",
+    "edu-lead-form-designer/references/EXAMPLES.md",
+    "edu-lead-form-designer/templates/OUTPUT_TEMPLATE.md"
+  ]
+}
