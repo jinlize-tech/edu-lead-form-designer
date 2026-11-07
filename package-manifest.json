@@ -2,17 +2,29 @@
   "product_id": "JLZ-EDU-SK-011",
   "repository_name": "edu-lead-form-designer",
   "product_type": "Skill",
-  "version": "1.0.0",
-  "package_path": "dist/edu-lead-form-designer-v1.0.0.zip",
-  "sha256": "F0BB69E390AFA28A1DFB6DCDACCE8A70E613B34CF1E49F4ACDA7B412283CD906",
-  "bytes": 4889,
+  "version": "1.0.1",
+  "package_path": "dist/edu-lead-form-designer-v1.0.1.zip",
+  "sha256": "56F155C21D1785CB54BA0294A3615B462B5FE8551B680D0A575D988CD09B4773",
+  "bytes": 14726,
   "entries": [
     "edu-lead-form-designer/SKILL.md",
     "edu-lead-form-designer/references/DOMAIN_GUIDE.md",
     "edu-lead-form-designer/references/EXAMPLES.md",
-    "edu-lead-form-designer/templates/OUTPUT_TEMPLATE.md"
+    "edu-lead-form-designer/templates/OUTPUT_TEMPLATE.md",
+    "edu-lead-form-designer/README.md",
+    "edu-lead-form-designer/USAGE.md",
+    "edu-lead-form-designer/LICENSE",
+    "edu-lead-form-designer/THIRD_PARTY_NOTICES.md",
+    "edu-lead-form-designer/scripts/validate_input.js"
   ],
-  "built_at": "2026-11-06T21:38:58.5923122+08:00",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED"
+  "license": "Apache-2.0",
+  "license_included": true,
+  "license_sha256": "CFC7749B96F63BD31C3C42B5C471BF756814053E847C10F3EB003417BC523D30",
+  "third_party_notice_included": true,
+  "previous_package_path": "dist/edu-lead-form-designer-v1.0.0.zip",
+  "previous_package_sha256": "F0BB69E390AFA28A1DFB6DCDACCE8A70E613B34CF1E49F4ACDA7B412283CD906",
+  "built_at": "2026-11-07T09:09:10.0400135+08:00",
+  "status": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE"
 }
